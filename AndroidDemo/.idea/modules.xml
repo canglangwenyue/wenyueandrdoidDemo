@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/EgtMiles/EgtMiles/EgtMiles.iml" filepath="$USER_HOME$/Desktop/EgtMiles/EgtMiles/EgtMiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" filepath="$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeLineDemo/TimeLineDemo.iml" filepath="$PROJECT_DIR$/TimeLineDemo/TimeLineDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WenyueListViewDemo/WenyueListViewDemo.iml" filepath="$PROJECT_DIR$/WenyueListViewDemo/WenyueListViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/savedInstanceState/savedInstanceState.iml" filepath="$PROJECT_DIR$/savedInstanceState/savedInstanceState.iml" />
+    </modules>
+  </component>
+</project>
